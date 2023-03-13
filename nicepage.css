@@ -41303,35 +41303,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 12px;
 }
 
-.u-header .u-menu-1 {
-  margin: 30px 0 22px auto;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: normal;
-}
-
-.u-header .u-nav-2 {
-  font-size: 1.25rem;
-}
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
-  }
-}
 
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 84px;
-  }
-
-  .u-header .u-menu-1 {
-    margin: 26px auto 26px 0;
   }
 }
  .u-footer {
