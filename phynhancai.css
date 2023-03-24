@@ -23362,6 +23362,14 @@ html {
     }
 }
 
+.u-section-1 {
+    background-image: url("images/Ecommerce-scaled.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    text-shadow: white 0px 0px 2px;
+}
+
 .u-section-2 .u-sheet-1 {
     min-height: 823px
 }
